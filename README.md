@@ -10,6 +10,8 @@ Extract the ‘myenv1’ Rar(Environment File)(Copy the rar file in the Users/An
 
 "Open cmd prompt in the project folder path"
 
+Download and copy the saved model into the project folder
+
 Run command : activate myenv1
 
 Run command : python gui.py
